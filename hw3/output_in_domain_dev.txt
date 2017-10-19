@@ -1,4 +1,4 @@
-Influential	NNP
+Influential	JJ
 members	NNS
 of	IN
 the	DT
@@ -1467,7 +1467,7 @@ ad	NN
 campaign	NN
 ,	,
 ``	``
-Leadership	NN
+Leadership	NNP
 by	IN
 Example	NN
 .	.
@@ -2179,7 +2179,7 @@ in	IN
 green	JJ
 and	CC
 gold	NN
-salted	VBN
+salted	VBD
 away	RP
 successes	NNS
 to	TO
@@ -2545,8 +2545,8 @@ this	DT
 Series	NN
 of	IN
 the	DT
-Subway	NNP
-Called	VBD
+Subway	NN
+Called	VBN
 BART	NNP
 (	(
 that	WDT
@@ -2560,7 +2560,7 @@ public	JJ
 conveyance	NN
 than	IN
 ``	``
-Desire	NNP
+Desire	NN
 ,	,
 ''	''
 do	VBP
@@ -2712,7 +2712,7 @@ a	DT
 triumph	NN
 of	IN
 either	DT
-apathy	RP
+apathy	NN
 or	CC
 civility	NN
 .	.
@@ -2804,7 +2804,7 @@ fans	NNS
 and	CC
 only	RB
 the	DT
-suicidal	JJ
+suicidal	NN
 would	MD
 bifurcate	VB
 their	PRP$
@@ -2955,7 +2955,7 @@ McGwire	NNP
 An	DT
 A	NN
 's	POS
-co-hero	JJ
+co-hero	NN
 of	IN
 the	DT
 second	JJ
@@ -3955,7 +3955,7 @@ hour	NN
 ,	,
 2:30	CD
 ,	,
-3:30	CD
+3:30	NNP
 ,	,
 4:30	CD
 .	.
@@ -4451,7 +4451,7 @@ screens	NNS
 ,	,
 only	RB
 two	CD
-forlorn	NN
+forlorn	JJ
 blue	JJ
 figures	NNS
 remained	VBD
@@ -4499,7 +4499,7 @@ shares	NNS
 of	IN
 Reuters	NNP
 and	CC
-punched	VBN
+punched	VBD
 a	DT
 button	NN
 to	TO
@@ -9890,14 +9890,14 @@ May	NNP
 Richstone	NNP
 .	.
 
-Telecussed	VBN
+Telecussed	JJ
 
 The	DT
 guy	NN
 who	WP
 throws	VBZ
 an	DT
-intercept	JJ
+intercept	VBP
 'Cause	NNP
 his	PRP$
 receiver	NN
@@ -11574,7 +11574,7 @@ intense	JJ
 .	.
 
 At	IN
-3:30	CD
+3:30	NNP
 ,	,
 after	IN
 intense	JJ
@@ -12310,7 +12310,7 @@ workers	NNS
 
 CLUBBING	NNP
 A	NNP
-FAN	NNP
+FAN	NN
 was	VBD
 n't	RB
 the	DT
@@ -12646,8 +12646,8 @@ incentives	NNS
 .	.
 
 MRA	NNP
-Staffing	NNP
-Systems	NNPS
+Staffing	NN
+Systems	NNP
 signs	NNS
 up	IN
 nurses	NNS
@@ -12670,7 +12670,7 @@ housing	NN
 .	.
 
 TREATING	NN
-EMPLOYEES	NNS
+EMPLOYEES	NNP
 with	IN
 respect	NN
 is	VBZ
@@ -12737,10 +12737,10 @@ they	PRP
 work	VBP
 .	.
 
-SPRUCING	VBG
+SPRUCING	NNP
 UP	RP
 THE	DT
-DIGS	NNP
+DIGS	NNS
 :	:
 About	RB
 200	CD
@@ -12867,8 +12867,8 @@ consider	VB
 it	PRP
 .	.
 
-TEMPORARY	NN
-WORKERS	NNS
+TEMPORARY	NNP
+WORKERS	NNPS
 have	VBP
 good	JJ
 educations	NNS
@@ -13106,7 +13106,7 @@ Since	IN
 ,	,
 firms	NNS
 offering	VBG
-prepurchase	NN
+prepurchase	VBN
 house	NN
 appraisals	NNS
 ,	,
@@ -13503,7 +13503,7 @@ Loss	NN
 of	IN
 Customers	NNS
 
-FAST	NNP
+FAST	NN
 -	HYPH
 FOOD	NN
 chicken	NN
@@ -13518,8 +13518,8 @@ slump	NN
 ,	,
 are	VBP
 struggling	VBG
-to	IN
-hatch	NN
+to	TO
+hatch	VB
 some	DT
 new	JJ
 marketing	NN
@@ -14267,11 +14267,11 @@ example	NN
 it	PRP
 recommends	VBZ
 nonchlorinated	JJ
-dishwasher	NN
+dishwasher	JJR
 detergent	NN
 and	CC
 puts	VBZ
-Sunlight	NNP
+Sunlight	NN
 on	IN
 its	PRP$
 environmentally	RB
@@ -14291,7 +14291,7 @@ Co.	NNP
 maker	NN
 of	IN
 Cascade	NNP
-dishwasher	NN
+dishwasher	JJR
 detergent	NN
 .	.
 
@@ -14313,7 +14313,7 @@ present	JJ
 in	IN
 all	DT
 major	JJ
-dishwasher	NN
+dishwasher	JJR
 detergents	NNS
 .	.
 
@@ -14540,8 +14540,8 @@ commercials	NNS
 according	VBG
 to	IN
 Video	NNP
-Storyboard	NN
-Tests	VBZ
+Storyboard	NNP
+Tests	NNPS
 ,	,
 New	NNP
 York	NNP
@@ -14786,7 +14786,7 @@ the	DT
 U.S.	NNP
 faces	VBZ
 a	DT
-multifaceted	JJ
+multifaceted	VBN
 housing	NN
 crisis	NN
 --	:
@@ -15566,7 +15566,7 @@ Union	NNP
 :	:
 ``	``
 It	PRP
-treads	NNS
+treads	VBZ
 in	IN
 two	CD
 worlds	NNS
@@ -15757,9 +15757,9 @@ story	NN
 ``	``
 And	CC
 Bills	NNS
-to	IN
-Make	NNP
-Wishes	NNPS
+to	TO
+Make	VB
+Wishes	NNP
 Come	VBN
 True	UH
 ''	''
@@ -16106,7 +16106,7 @@ e	LS
 .	.
 
 The	DT
-ceremonies	VBZ
+ceremonies	NNS
 began	VBD
 Friday	NNP
 afternoon	NN
@@ -18181,7 +18181,7 @@ falling	VBG
 and	CC
 Singapore	NNP
 's	POS
-Straits	NNS
+Straits	VBZ
 Times	NNP
 Industrial	NNP
 Index	NNP
@@ -18443,7 +18443,7 @@ Monday	NNP
 decline	NN
 ,	,
 the	DT
-Straits	NNS
+Straits	VBZ
 Times	NNP
 index	NN
 is	VBZ
@@ -20177,7 +20177,7 @@ anyone	NN
 left	VBD
 the	DT
 place	NN
-whistling	NN
+whistling	VBG
 Dixie	NNP
 .	.
 ''	''
@@ -20978,7 +20978,7 @@ their	PRP$
 approval	NN
 .	.
 
-Grinned	VBN
+Grinned	NNP
 Griffith	NNP
 Peck	NNP
 ,	,
@@ -26808,7 +26808,7 @@ based	VBN
 producer	NN
 of	IN
 specialty	NN
-steels	NNS
+steels	VBZ
 and	CC
 other	JJ
 materials	NNS
@@ -26967,7 +26967,7 @@ Nov.	NNP
 .	.
 
 U.S.	NNP
-Banknote	NN
+Banknote	NNP
 said	VBD
 it	PRP
 is	VBZ
@@ -27009,7 +27009,7 @@ sale	NN
 .	.
 
 U.S.	NNP
-Banknote	NN
+Banknote	NNP
 said	VBD
 it	PRP
 believes	VBZ
@@ -27032,13 +27032,13 @@ Justice	NNP
 Department	NNP
 about	IN
 U.S.	NNP
-Banknote	NN
+Banknote	NNP
 's	POS
 offer	NN
 to	TO
 buy	VB
 International	NNP
-Banknote	NN
+Banknote	NNP
 .	.
 
 Both	DT
@@ -27057,7 +27057,7 @@ currency	NN
 .	.
 
 U.S.	NNP
-Banknote	NN
+Banknote	NNP
 said	VBD
 ``	``
 there	EX
@@ -27094,7 +27094,7 @@ arrangements	NNS
 .	.
 
 U.S.	NNP
-Banknote	NN
+Banknote	NNP
 said	VBD
 Citibank	NNP
 extended	VBD
@@ -27130,7 +27130,7 @@ times	NNS
 Closely	RB
 held	VBN
 U.S.	NNP
-Banknote	NN
+Banknote	NNP
 offered	VBD
 the	DT
 $	$
@@ -27157,14 +27157,14 @@ or	CC
 ,	,
 of	IN
 International	NNP
-Banknote	NN
+Banknote	NNP
 's	POS
 shares	NNS
 outstanding	JJ
 .	.
 
 U.S.	NNP
-Banknote	NN
+Banknote	NNP
 said	VBD
 that	IN
 as	RB
@@ -28791,7 +28791,7 @@ they	PRP
 all	RB
 say	VBP
 `	``
-wow	NN
+wow	VB
 .	.
 '	''
 
@@ -29239,7 +29239,7 @@ issue	NN
 celebrating	VBG
 photography	NN
 's	POS
-150th	NNP
+150th	JJ
 anniversary	NN
 ,	,
 all	RB
@@ -29959,7 +29959,7 @@ for	IN
 inflation	NN
 .	.
 
-Underlying	VBG
+Underlying	NNP
 this	DT
 optimism	NN
 is	VBZ
@@ -32491,7 +32491,7 @@ problem	NN
 simultaneously	RB
 .	.
 
-Alliant	JJ
+Alliant	NNP
 said	VBD
 it	PRP
 plans	VBZ
@@ -32546,7 +32546,7 @@ division	NN
 from	IN
 closely	RB
 held	VBN
-Sterile	NNP
+Sterile	JJ
 Products	NNPS
 Corp.	NNP
 for	IN
@@ -33216,7 +33216,7 @@ biscuits	NNS
 and	CC
 Terry	NNP
 's	POS
-confectionery	JJ
+confectionery	NN
 ,	,
 will	MD
 have	VB
@@ -36550,7 +36550,7 @@ G.m.b	NNP
 .	.
 H.	NNP
 ,	,
-Hispanoil	NN
+Hispanoil	NNP
 (	(
 Sumatra	NNP
 )	)
@@ -37260,8 +37260,8 @@ purchase	VB
 the	DT
 Electro	NNP
 -	HYPH
-Optics	NNS
-Technology	NN
+Optics	NNP
+Technology	NNP
 division	NN
 of	IN
 Perkin	NNP
@@ -40456,7 +40456,7 @@ treating	VBG
 diabetes	NN
 .	.
 
-Delegates	NNP
+Delegates	NNS
 from	IN
 91	CD
 nations	NNS
@@ -42176,7 +42176,7 @@ Power	NNP
 Inc.	NNP
 from	IN
 an	DT
-underachiever	JJ
+underachiever	NN
 into	IN
 a	DT
 feisty	JJ
